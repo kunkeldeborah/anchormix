@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593096710577.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3518154723",
+    "id" : "60184BD4",
+    "lastKnownWriteTime" : 1589912753,
+    "last_content_update" : 1589912753,
+    "path" : "~/anchoredmixtures/src/univariate_normal_SFM.cpp",
+    "project_path" : "src/univariate_normal_SFM.cpp",
+    "properties" : {
+        "cursorPosition" : "346,10",
+        "scrollLine" : "343"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

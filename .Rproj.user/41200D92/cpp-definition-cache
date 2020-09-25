@@ -1,0 +1,62 @@
+[
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/HP/Documents/anchoredmixtures/src/ELPPD.cpp",
+        "file_last_write" : 1589905534.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/HP/Documents/anchoredmixtures/src/SFM_updates.cpp",
+        "file_last_write" : 1589905773.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/HP/Documents/anchoredmixtures/src/anchor_helpers.cpp",
+        "file_last_write" : 1589905783.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/HP/Documents/anchoredmixtures/src/distributions.cpp",
+        "file_last_write" : 1589905796.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/HP/Documents/anchoredmixtures/src/distributions.h",
+        "file_last_write" : 1589905471.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/HP/Documents/anchoredmixtures/src/helpers.cpp",
+        "file_last_write" : 1589908147.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/HP/Documents/anchoredmixtures/src/helpers.h",
+        "file_last_write" : 1589905757.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/HP/Documents/anchoredmixtures/src/rcpparma_hello_world.cpp",
+        "file_last_write" : 1589895136.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/HP/Documents/anchoredmixtures/src/univariate_MAP_ng_independence.cpp",
+        "file_last_write" : 1589907965.000000
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/HP/Documents/anchoredmixtures/src/univariate_normal_SFM.cpp",
+        "file_last_write" : 1589912753.000000
+    }
+]

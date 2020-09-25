@@ -1,0 +1,20 @@
+J <- 5
+nj <- 10
+rho <- .9
+Jm <- matrix(1,nrow=nj,ncol=nj)
+
+D <- kronecker( diag(J), rho*Jm + (1-rho)*diag(nj) )
+trace(D)
+diag(D)
+dim(D)
+
+eigen(D)$values
+
+D.inv <- solve(D)
+
+# generate data
+means <- seq(-5,5,length.out=J)
+indicators <- rep(1:J,each=nj)
+y <- rnorm(length(indicators),means[indicators],1)
+
+t(matrix(y,ncol=1))%*%D.inv%*%matrix(y,ncol=1)
